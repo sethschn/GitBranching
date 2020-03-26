@@ -24,4 +24,6 @@ Overview and cheat sheet of Git commands. Introduction to branching.
 * 'git branch' - List local branches, highlight check out branches
 * 'git branch branchName' - Create branch 'branchName'
 * 'git checkout branchName' - Move to branch 'branchName'
+* 'git checkout -b newBranch' - Checkout branch 'newBranch', create it if needed.
 * 'git push origin branchName' - Push local branch 'branchName' to origin
+* 'git pull origin master' - Pull remote 'master' into local branch (resolve conflicts)
