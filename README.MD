@@ -9,7 +9,7 @@
 * 'git log' - show commit history
 * 'git log --oneline' - Show commit history (compact)
 
-### Brancing Commands
+### Branching Commands
 * 'git branch' - List local branches, highlight check out branches
 * 'git branch branchName' - Create branch 'branchName'
 * 'git checkout branchName' - Move to branch 'branchName'
